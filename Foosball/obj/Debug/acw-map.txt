@@ -1,0 +1,4 @@
+Foosball.MainActivity, Foosball;md509d1d0e1031f06c16b7beba37332f646.MainActivity
+Foosball.MainActivity, Foosball, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md509d1d0e1031f06c16b7beba37332f646.MainActivity
+Foosball.MainActivity;md509d1d0e1031f06c16b7beba37332f646.MainActivity
+foosball.MainActivity;md509d1d0e1031f06c16b7beba37332f646.MainActivity

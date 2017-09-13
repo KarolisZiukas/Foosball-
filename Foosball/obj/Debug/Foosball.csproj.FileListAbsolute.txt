@@ -1,0 +1,17 @@
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\bin\Debug\Foosball.dll
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\bin\Debug\Foosball.pdb
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\bin\Debug\Foosball.Foosball.apk
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\bin\Debug\Foosball.Foosball-Signed.apk
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\Foosball.csproj.CoreCompileInputs.cache
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\Foosball.dll
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\Foosball.pdb
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\android\bin\Foosball.Foosball.apk
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\res\layout\main.xml
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\res\values\strings.xml
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\R.cs.flag
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\uploadflags.txt
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\bin\Debug\Foosball.dll.mdb
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\android\assets\Foosball.dll.mdb
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\bin\Debug\Cheeseknife.dll
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\bin\Debug\Cheeseknife.xml
+C:\Users\Karolis\Source\Repos\Foosball-\Foosball\obj\Debug\Foosball.csprojResolveAssemblyReference.cache
